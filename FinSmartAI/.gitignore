@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# CrewAI output
+new-blog-post.md
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# uv
+.uv/
+
+# FastAPI
+*.db
+*.sqlite
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Brain/artifacts (optional - you may want to keep these)
+.gemini/
